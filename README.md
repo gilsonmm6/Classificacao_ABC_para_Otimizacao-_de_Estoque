@@ -32,11 +32,27 @@ Utilizei dados históricos de vendas (2014–2018) com campos como Sales, Quanti
 3.	Lógica de Negócio:
   Regras claras para priorização (ex: produtos A demandam reposição frequente; C exigem revisão de giro).
 
-# Resultados e Impacto
+# Resultados e Insights Principais:
 
-  - Redução de custos: Foco na redução de itens de baixo giro (Categoria C).
-  - Evitar rupturas: Garantia de disponibilidade de produtos críticos (Categoria A).
-  - Decisão estratégica: Insights para compras, negociação com fornecedores e alocação de espaço físico.
+Categoria A (15% dos produtos): Responsável por 78% das vendas.
+
+Exemplos: Mesas de escritório premium, cadeiras ergonômicas.
+
+Ações:
+- Estoque mínimo garantido.
+- Negociação de prazos de pagamento com fornecedores.
+
+Categoria C (60% dos produtos): Contribui com apenas 5% das vendas.
+
+  Exemplos: Clipes de papel, post-its.
+  
+Ações:
+- Reduzir estoque físico (adotar dropshipping).
+- Promoções para liquidar estoque parado.
+
+# Impacto Estimado:
+- Redução de 25% nos custos de armazenagem (eliminação de 40% do estoque da categoria C).
+- Aumento de 10% no lucro com foco em produtos de alta margem (categoria A).
 
 # Habilidades Aplicadas
   - Análise de Dados: Manipulação de datasets complexos e aplicação de métricas financeiras.
